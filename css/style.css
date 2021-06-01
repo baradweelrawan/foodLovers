@@ -1,0 +1,50 @@
+
+    /* body {
+        background-image: '../url('images/thumbnail.jpg')';
+      } */
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    padding-top: 20px;
+    font-family: 'Fredoka One', cursive;
+}
+
+header{
+    background-color: rgba(255, 229, 72, 255);
+    padding-bottom: 20px;
+}
+
+main form{
+    background-color: rgba(255, 229, 72, 255);
+    margin-top: 50px;
+    position: relative;
+    width: 20%;
+   margin-left: 60px;
+   padding-bottom: 30px;
+
+}
+
+#myForm{
+    color: red;
+    /* background-color:black ; */
+    padding-left: 60px;
+    padding-top: 60px;
+    font-family: 'Fredoka One', cursive;
+    /* padding:20px; */
+}
+
+form fieldset :last-child{
+    background-color: red;
+    margin-top: 15px;
+    width:150px;
+    border-radius: 10px
+
+}
+
+table tr th{
+    padding-left: 800px;
+    margin-left: 50px;
+   
+}
